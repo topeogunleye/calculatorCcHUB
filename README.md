@@ -7,4 +7,4 @@ build a simple calculator using JavaScript.
 - No use of javascript libraries.
 - Can add, minus, multiply and divide.
 
-[live demo](https://intellectualapp.netlify.app/#)
+[live demo](https://calculatorchallenge.netlify.app/)
